@@ -1,0 +1,40 @@
+2024-12-21 01:49:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SWAROOP\eclipse-workspace\OpenCartFullProjectDemo\master.xml
+
+2024-12-21 01:52:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SWAROOP\eclipse-workspace\OpenCartFullProjectDemo\master.xml
+
+2024-12-21 01:59:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SWAROOP\eclipse-workspace\OpenCartFullProjectDemo\master.xml
+
+2024-12-21 02:01:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SWAROOP\eclipse-workspace\OpenCartFullProjectDemo\master.xml
+
+2024-12-21 02:01:10 INFO  TC001_AccountRegistrationTest:26 - **Starting TC001_TC001_AccountRegistrationTest**
+2024-12-21 02:01:11 INFO  TC001_AccountRegistrationTest:29 - Clicked on my account
+2024-12-21 02:01:11 INFO  TC001_AccountRegistrationTest:31 - Clicked on registration
+2024-12-21 02:01:11 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
+2024-12-21 02:01:13 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2024-12-21 02:01:13 INFO  TC001_AccountRegistrationTest:78 - Finish TC_001
+2024-12-21 02:01:16 INFO  TC_002_LoginTest:18 - **Starting TC_002_LoginTest**
+2024-12-21 07:44:06 INFO  TC001_AccountRegistrationTest:26 - **Starting TC001_TC001_AccountRegistrationTest**
+2024-12-21 07:44:06 INFO  TC001_AccountRegistrationTest:29 - Clicked on my account
+2024-12-21 07:44:07 INFO  TC001_AccountRegistrationTest:31 - Clicked on registration
+2024-12-21 07:44:07 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
+2024-12-21 07:44:10 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2024-12-21 07:44:10 INFO  TC001_AccountRegistrationTest:78 - Finish TC_001
+2024-12-21 07:44:14 INFO  TC_002_LoginTest:18 - **Starting TC_002_LoginTest**
+2024-12-21 07:58:48 INFO  TC001_AccountRegistrationTest:26 - **Starting TC001_TC001_AccountRegistrationTest**
+2024-12-21 07:58:49 INFO  TC001_AccountRegistrationTest:29 - Clicked on my account
+2024-12-21 07:58:49 INFO  TC001_AccountRegistrationTest:31 - Clicked on registration
+2024-12-21 07:58:49 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
+2024-12-21 07:58:51 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2024-12-21 07:58:52 INFO  TC001_AccountRegistrationTest:78 - Finish TC_001
+2024-12-21 07:58:55 INFO  TC_002_LoginTest:18 - **Starting TC_002_LoginTest**
+2024-12-21 08:03:32 INFO  TC001_AccountRegistrationTest:26 - **Starting TC001_TC001_AccountRegistrationTest**
+2024-12-21 08:03:33 INFO  TC001_AccountRegistrationTest:29 - Clicked on my account
+2024-12-21 08:03:34 INFO  TC001_AccountRegistrationTest:31 - Clicked on registration
+2024-12-21 08:03:34 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
+2024-12-21 08:03:36 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2024-12-21 08:03:36 INFO  TC001_AccountRegistrationTest:78 - Finish TC_001
+2024-12-21 08:03:39 INFO  TC_002_LoginTest:18 - **Starting TC_002_LoginTest**
